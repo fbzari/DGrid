@@ -41,6 +41,7 @@
                 <EditSettings AllowEditing="True" AllowAdding="True" AllowDeleting="True" EditMode="Batch" ShowDeleteConfirmDialog="true"></EditSettings>
                 <ToolbarSettings ShowToolbar="True" ToolbarItems="add,edit,delete,update,cancel"></ToolbarSettings>
                 <SummaryRows>
+                    <summarycolumn SummaryType="Sum" DisplayColumn="Freight" />
                     
                 </SummaryRows>
                
