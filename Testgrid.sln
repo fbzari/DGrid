@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Testgrid", ".", "{E01A946F-0AB6-41E5-AF1B-F84E2C35645C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52733"
+		Debug.AspNetCompiler.PhysicalPath = "..\Testgrid\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52733\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52733"
+		Release.AspNetCompiler.PhysicalPath = "..\Testgrid\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52733\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52733"
+		SlnRelativePath = "..\Testgrid\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E01A946F-0AB6-41E5-AF1B-F84E2C35645C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01A946F-0AB6-41E5-AF1B-F84E2C35645C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E241242-BA5B-46D1-BFFB-1C8960686F15}
+	EndGlobalSection
+EndGlobal
